@@ -42,7 +42,7 @@ Recently focusing on LLM with quantitative analysis of decision making.
 
 ### Projects
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Megaxx07&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Megaxx07&repo=Quant)](https://github.com/Megaxx07/Quant)
 <br><br><br>
 
 ### Github Activity
